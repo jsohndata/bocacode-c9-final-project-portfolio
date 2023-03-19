@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bocacode-c9/static/css/main.6ead6807.css",
-    "main.js": "/bocacode-c9/static/js/main.c37aa583.js",
+    "main.js": "/bocacode-c9/static/js/main.4d673153.js",
     "index.html": "/bocacode-c9/index.html",
     "main.6ead6807.css.map": "/bocacode-c9/static/css/main.6ead6807.css.map",
-    "main.c37aa583.js.map": "/bocacode-c9/static/js/main.c37aa583.js.map"
+    "main.4d673153.js.map": "/bocacode-c9/static/js/main.4d673153.js.map"
   },
   "entrypoints": [
     "static/css/main.6ead6807.css",
-    "static/js/main.c37aa583.js"
+    "static/js/main.4d673153.js"
   ]
 }

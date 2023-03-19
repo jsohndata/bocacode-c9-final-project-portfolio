@@ -1,15 +1,16 @@
 import { Container, Row, Col } from "../../utilis/Bootstrap.js";
+import { Github } from 'react-bootstrap-icons';
 
 export default function Footer() {
     const repoUrl = "https://github.com/jsohndata/bocacode-c9";
 
     return (
       <footer>
-        <Container>
-          <Row className="justify-content-md-center">
+        <Container className="mt-5 mb-5">
+          <Row className="justify-content-center text-center">
             <Col md={6}>
               <a href={repoUrl} target="_blank" rel="noreferrer" >
-                  <img src="/images/logo-github.svg" alt="Github" />
+                  <Github color="#000000" size={27} />
                   <p><small>See Code in Github</small></p>
               </a>
             </Col>

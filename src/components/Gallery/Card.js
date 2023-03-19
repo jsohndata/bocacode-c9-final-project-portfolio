@@ -3,8 +3,8 @@ import AccordianBar from "../AccordianBar/AccordianBar.js";
 
 import styles from "./gallery.module.css";
 
-export default function GalleryCard({ data: {id, title, prior, author, cover, content, youtube, website, candidate} }) {
 
+export default function GalleryCard({ data: {id, title, prior, author, cover, content, youtube, website, candidate} }) {
 
   return (
     <Col key={id} className="button-effect">

@@ -14,8 +14,7 @@ export default function GalleryCard({ data: {id, title, prior, author, cover, co
             src={cover} alt={title} className="rounded-0" /></a>
         </figure>
         
-        
-        <article className="card-body p-4">
+        <article className="card-body p-3">
           <header>
             <h2>{title}</h2>
             <p className="mb-0 pb-0 author">{author}</p>

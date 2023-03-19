@@ -1,12 +1,12 @@
 figure {
   margin: 0;
   padding: 0;
-  overflow: hidden
+  overflow: hidden;
 }
 
 figure img {
   width: 100%;
-  transition: transform 0.9s ease-out;
+  transition: transform 1.1s ease-out;
 }
 
 figure img:hover {

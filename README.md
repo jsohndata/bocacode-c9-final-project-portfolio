@@ -3,16 +3,23 @@
 
 BocaCode's Cohort 9 (C-9) has successfully completed their final project after a challenging 10-week course filled with both highs and lows. It is with great pleasure that we congratulate all 13 students on their remarkable achievement.
 
-<br>`Anime Ave`<br>
-Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.
+## Link(s)
+* [👉 jsohndata.github.io/bocacode-c9](https://jsohndata.github.io/bocacode-c9/)
 
+<br>
+
+## Students and about their Final Project
+<br>`Anime Ave`<br>
 By Idan Fischer - Recent High School Graduate
+> Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.
+
 
 
 <br>`Budget Buddy`<br>
-Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.
-
 By Migule Camilo - Former Apple Genius
+> Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.
+
+
 
 <br>`Echo`<br>
 Gisselle Pombar - Former MIT Chemistry PhD Candidate
@@ -21,9 +28,10 @@ Gisselle Pombar - Former MIT Chemistry PhD Candidate
 Daniel Barba - Former Mechanical Engineer
 
 <br>`Certified Gamer`<br>
-Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.
-
 Joseph Graffeo - Former Sports/Trading Card Grading Expert
+> Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.
+
+
 
 <br>`iReccoStyle`<br>
 Anttoinette Henry - Stylist and Entrepreneur
@@ -35,21 +43,16 @@ Anthony Murphy - Recent High School Graduate
 Edilma Riano - Marketing and Lead Expert
 
 <br>`PracPal`<br>
-Pracpal is an app designed for athletes by athletes, with user/password and Google sign in where they can log their practice regime for the week, update it and delete it. They are able also to retrieve stored data optimizing efficiency.
-
 Beatriz Recari - Former 3-time LPGA champion
-
+> Pracpal is an app designed for athletes by athletes, with user/password and Google sign in where they can log their practice regime for the week, update it and delete it. They are able also to retrieve stored data optimizing efficiency.
 
 <br>`Lineupwiz`<br>
-Lineupwiz is about simplifying soccer formation management. It presents clear visual representations of soccer formations and the player positions.
-
 Varlince Meran - Former Software Support Analyst
-
+> Lineupwiz is about simplifying soccer formation management. It presents clear visual representations of soccer formations and the player positions.
 
 <br>`Cheers!`<br>
-Cheers!, furnishes beverage recipes tailored for various occasions using uncomplicated ingredients and straightforward instructions.
-
 Gisele Abzalov - Former Finance Expert and Entrepreneur
+> Cheers!, furnishes beverage recipes tailored for various occasions using uncomplicated ingredients and straightforward instructions.
 
 <br>`Explore Top 5`<br>
 Alliette Dortelus - Former TSA Agent

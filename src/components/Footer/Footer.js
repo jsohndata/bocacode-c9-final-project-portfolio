@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "../../utilis/Bootstrap.js";
 
 export default function Footer() {
-    const repoUrl = "";
+    const repoUrl = "https://github.com/jsohndata/bocacode-c9";
 
     return (
       <footer>

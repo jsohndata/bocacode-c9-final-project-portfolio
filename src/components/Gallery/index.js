@@ -1,1 +1,1 @@
-export { default } from "./GalleryList.js";
+export { default } from "./List.js";

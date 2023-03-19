@@ -8,7 +8,8 @@
     "content" : "Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.",
     
     "youtube" : "https://www.youtube.com/watch?v=Fp4gCRiFF4k",
-    "url": "https://final-project-frontend-if.web.app",
+    "website": "https://final-project-frontend-if.web.app",
+    "candidate": "https://bocacode.com/candidates/software-engineer/idan-fischer",
     "cover": "/images/projects/anime-ave.webp"    
   },
 
@@ -21,7 +22,8 @@
     "content" : "Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.", 
 
     "youtube" : "https://www.youtube.com/watch?v=XPNZBO3OQB8",
-    "url": "https://budget-buddy-app.web.app/dashboard",
+    "website": "https://budget-buddy-app.web.app/dashboard",
+    "candidate": "https://bocacode.com/candidates/software-engineer/miguel-camilo",
     "cover": "/images/projects/budget-buddy.webp"    
   },
 
@@ -34,7 +36,8 @@
     "content" : "Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.",   
 
     "youtube" : "https://www.youtube.com/watch?v=q2Lm0XSjoIA",
-    "url": "https://echo-cards.web.app/",
+    "website": "https://echo-cards.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/gisselle-pombar",
     "cover": "/images/projects/echo.webp"    
   },
 
@@ -47,7 +50,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=eeMMautVnK4",
-    "url": "https://pig-e-bank-app.firebaseapp.com/",
+    "website": "https://pig-e-bank-app.firebaseapp.com/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/daniel-barba",
     "cover": "/images/projects/pig-e-bank.png"    
   },
 
@@ -60,7 +64,8 @@
     "content" : "Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.",
 
     "youtube" : "https://www.youtube.com/watch?v=eeMMautVnK4",
-    "url": "https://www.certifiedgamerproject.com/",
+    "website": "https://www.certifiedgamerproject.com/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/joseph-graffeo",
     "cover": "/images/projects/certified-gamer.webp"    
   },
 
@@ -73,7 +78,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=5LD1l9uEVLU",    
-    "url": "https://ireccostyle-frontend.web.app/",
+    "website": "https://ireccostyle-frontend.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/anttoinette-henry",
     "cover": "/images/projects/ireccostyle.webp"
   },
 
@@ -86,7 +92,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=nrUAAwlA34Q",    
-    "url": "https://chromesthesia-world.web.app/",
+    "website": "https://chromesthesia-world.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/anthony-murphy",
     "cover": "/images/projects/omesthesia-sound.webp"
   },
 
@@ -99,7 +106,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=mv9hVLsqptk",    
-    "url": "http://lds-leads.s3-website-us-east-1.amazonaws.com/",
+    "website": "http://lds-leads.s3-website-us-east-1.amazonaws.com/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/edilma-riano",
     "cover": "/images/projects/lead-distribution-system.webp"
   },
 
@@ -112,7 +120,8 @@
     "content" : "Pracpal is an app designed for athletes by athletes, with user/password and Google sign in where they can log their practice regime for the week, update it and delete it. They are able also to retrieve stored data optimizing efficiency.",
 
     "youtube" : "https://www.youtube.com/watch?v=4jcJuqay318",    
-    "url": "https://pracpal.com/",
+    "website": "https://pracpal.com/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/beatriz-recari",
     "cover": "/images/projects/pracpal.webp"
   },
 
@@ -125,7 +134,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=_ujz_ROM0_g",    
-    "url": "https://lineupwiz.web.app/",
+    "website": "https://lineupwiz.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/varlince-meran",
     "cover": "/images/projects/_blank.webp"
   },
 
@@ -138,7 +148,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=7aFSaf9wGmg",    
-    "url": "https://zen-path-react.web.app/",
+    "website": "https://zen-path-react.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/andy-linnell",
     "cover": "/images/projects/zen-path.webp"
   },
 
@@ -151,7 +162,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=to-J1VuDBGs",    
-    "url": "https://cheers-frontend-ga.web.app/",
+    "website": "https://cheers-frontend-ga.web.app/",
+    "candidate": "https://bocacode.com/candidates/software-engineer/gisele-abzalov",
     "cover": "/images/projects/_blank.webp"
   },
 
@@ -164,7 +176,8 @@
     "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
 
     "youtube" : "https://www.youtube.com/watch?v=V3eFb7bG1Sc",    
-    "url": "https://final-top5-ad.web.app/home",
+    "website": "https://final-top5-ad.web.app/home",
+    "candidate": "https://bocacode.com/candidates/software-engineer/alliette-dortelus",
     "cover": "/images/projects/top-5.webp"
   }
 ]

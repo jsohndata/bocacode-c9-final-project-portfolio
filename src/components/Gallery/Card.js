@@ -9,8 +9,11 @@ export default function GalleryCard({ data: {id, title, prior, author, cover, co
   return (
     <Col key={id} className="button-effect">
       <Card className={styles.card}>
-        <a href={website} target="_blank" rel="noreferrer"><Card.Img 
-          src={cover} alt={title} className="rounded-0" /></a>
+        <figure>
+          <a href={website} target="_blank" rel="noreferrer"><Card.Img 
+            src={cover} alt={title} className="rounded-0" /></a>
+        </figure>
+        
         
         <article className="card-body p-4">
           <header>

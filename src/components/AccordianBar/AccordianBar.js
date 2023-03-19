@@ -4,10 +4,10 @@ import { Youtube, PersonLinesFill, Laptop } from 'react-bootstrap-icons';
 export default function AccordianBar({ data:{id, content, youtube, website, candidate } }) {
 
   return(
-    <Accordion defaultActiveKey="1">     
+    <Accordion>     
            
       <Accordion.Item eventKey={id}>
-        <Accordion.Header>Read More</Accordion.Header>
+        <Accordion.Header>Get the Full Story</Accordion.Header>
 
         <Accordion.Body>
           <p>{content}</p>

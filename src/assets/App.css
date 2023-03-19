@@ -17,8 +17,12 @@ body {
 h1 {
     font-size: clamp(2.2rem, 10vw, 6.1rem);
     line-height: 1.0em;
-    font-weight: 200;
-    color: rgb(41, 32, 74);
+    font-weight: 800;
+    color: #fb246c;
+}
+
+h1 > span {
+    color: #242464;
 }
 
 h2 {
@@ -34,6 +38,10 @@ h3 {
 p {
     font-size: clamp(1.1rem, 1.0vw, 1.3rem);
     line-height: 1.4em;
+}
+
+.site-intro {
+    font-size: clamp(1.5rem, 1.8vw, 2.1rem);
 }
 
 footer { 
@@ -69,6 +77,31 @@ footer a:visited {
     color: #021323e1 !important;
     text-decoration: none !important;
 }
+
+a:link,
+a:visited { 
+    color: rgb(24, 73, 233);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.button-effect {
+    display: block;
+    transform: scale(1.0);
+    transition: transform 0.23s ease-in-out;
+}
+  
+.button-effect:hover {
+    transform: scale(1.13);
+    filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
+    z-index: 999;
+}
+
 
 .card {
   background-color: rgba(255, 255, 255, 0.513);

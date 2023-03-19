@@ -10,7 +10,7 @@ export default function Gallery() {
     <Container fluid>
       <Row 
         xs={1} sm={2} lg={3} 
-        className="g-3 justify-content-center">
+        className="g-4 justify-content-center">
           {data.map( (element) => {
             return !element 
             ? (<p>Loading</p>)

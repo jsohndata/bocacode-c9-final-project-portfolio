@@ -12,3 +12,11 @@ figure img {
 figure img:hover {
   transform: scale(1.3);
 }
+
+/* Disable hover effects on mobile */
+@media (max-width: 768px) {
+  figure img:hover
+  {
+    transform: scale(1.0);
+  }
+}

@@ -102,6 +102,15 @@ a:hover {
     z-index: 999;
 }
 
+/* Disable hover effects on mobile */
+@media (max-width: 768px) {
+    .button-effect:hover
+    {
+        transform: scale(1.0);
+        filter: none;
+    }
+  }
+
 
 .card {
   background-color: rgba(255, 255, 255, 0.513);
@@ -128,3 +137,6 @@ a:hover {
     font-size: 15px;
     background-color: rgba(197, 226, 250, 0.189);
 }
+
+
+  

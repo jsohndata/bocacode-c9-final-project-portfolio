@@ -26,6 +26,7 @@ Gisselle Pombar - Former MIT Chemistry PhD Candidate
 
 <br>`PigEBank`<br>
 Daniel Barba - Former Mechanical Engineer
+> PigEBank is a banking and chore tracking app built to equip parents to teach their kids about finances. Using chores as income, parents can teach their children fundamentals in managing income, savings, and debt.
 
 <br>`Certified Gamer`<br>
 Joseph Graffeo - Former Sports/Trading Card Grading Expert
@@ -56,6 +57,7 @@ Gisele Abzalov - Former Finance Expert and Entrepreneur
 
 <br>`Explore Top 5`<br>
 Alliette Dortelus - Former TSA Agent
+> Welcome to my website, where I'll be sharing my favorite places to eat and things to do in the Fort Lauderdale area. My final project is called Top 5, and it's a collection of the top 5 places to eat and things to do that I absolutely love in this vibrant city.s
 
 <br>`Zen Path`<br>
 Andy Linnell - Property and Ssset Manager

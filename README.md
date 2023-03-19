@@ -13,26 +13,20 @@ BocaCode's Cohort 9 (C-9) has successfully completed their final project after a
 By Idan Fischer - Recent High School Graduate
 > Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.
 
-
-
 <br>`Budget Buddy`<br>
 By Migule Camilo - Former Apple Genius
 > Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.
-
-
 
 <br>`Echo`<br>
 Gisselle Pombar - Former MIT Chemistry PhD Candidate
 
 <br>`PigEBank`<br>
-Daniel Barba - Former Mechanical Engineer
+Daniel Barba - Former Aerospace Machinist
 > PigEBank is a banking and chore tracking app built to equip parents to teach their kids about finances. Using chores as income, parents can teach their children fundamentals in managing income, savings, and debt.
 
 <br>`Certified Gamer`<br>
 Joseph Graffeo - Former Sports/Trading Card Grading Expert
 > Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.
-
-
 
 <br>`iReccoStyle`<br>
 Anttoinette Henry - Stylist and Entrepreneur

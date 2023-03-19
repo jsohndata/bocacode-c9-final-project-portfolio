@@ -7,7 +7,7 @@
 body { 
     width: 100%;
     height: 100vh;
-    background-color: #e6e7e8;
+    background-color: #c3c3c3 !important;
  }
 
 h1 {
@@ -25,7 +25,7 @@ h3 {
 }
 
 p {
-    font-size: clamp(1.3rem, 1.0vw, 1.5rem);
+    font-size: clamp(1.1rem, 1.0vw, 1.3rem);
     line-height: 1.4em;
 }
 

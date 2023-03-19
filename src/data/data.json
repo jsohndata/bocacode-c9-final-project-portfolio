@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Anime Ave",
+    "author": "Idan Fischer",
+    "prior": "Recent High School Graduate",
+    
+    "content" : "Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.",
+    
+    "youtube" : "https://www.youtube.com/watch?v=Fp4gCRiFF4k",
+    "url": "https://final-project-frontend-if.web.app",
+    "cover": "/images/projects/anime-ave.webp"    
+  },
+
+  {
+    "id": 2,
+    "title": "Buddy Buddy",
+    "author": "Migule Camilo",
+    "prior": "Former Apple Genius",
+
+    "content" : "Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.", 
+
+    "youtube" : "https://www.youtube.com/watch?v=XPNZBO3OQB8",
+    "url": "https://budget-buddy-app.web.app/dashboard",
+    "cover": "/images/projects/budget-buddy.webp"    
+  },
+
+  {
+    "id": 3,
+    "title": "Echo",
+    "author": "Gisselle Pombar",
+    "prior": "Former MIT Chemistry PhD Candidate",
+
+    "content" : "Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.",   
+
+    "youtube" : "https://www.youtube.com/watch?v=q2Lm0XSjoIA",
+    "url": "https://echo-cards.web.app/",
+    "cover": "/images/projects/echo.webp"    
+  },
+
+  {
+    "id": 4,
+    "title": "PigEBank",
+    "author": "Daniel Barba",
+    "prior": "Former Mechanical Engineer",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=eeMMautVnK4",
+    "url": "https://pig-e-bank-app.firebaseapp.com/",
+    "cover": "/images/projects/pig-e-bank.png"    
+  },
+
+  {
+    "id": 5,
+    "title": "Certified Gamer",
+    "author": "Joseph Graffeo",
+    "prior": "Former Sports/Trading Card Grading Expert",
+
+    "content" : "Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.",
+
+    "youtube" : "https://www.youtube.com/watch?v=eeMMautVnK4",
+    "url": "https://www.certifiedgamerproject.com/",
+    "cover": "/images/projects/certified-gamer.webp"    
+  },
+
+  {
+    "id": 6,
+    "title": "iReccoStyle",
+    "author": "Anttoinette Henry",
+    "prior": "Stylist and Entrepreneur",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=5LD1l9uEVLU",    
+    "url": "https://ireccostyle-frontend.web.app/",
+    "cover": "/images/projects/ireccostyle.webp"
+  },
+
+  {
+    "id": 7,
+    "title": "Chromesthesia Sound",
+    "author": "Anthony Murphy",
+    "prior": "Recent High School Graduate",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=nrUAAwlA34Q",    
+    "url": "https://chromesthesia-world.web.app/",
+    "cover": "/images/projects/omesthesia-sound.webp"
+  },
+
+  {
+    "id": 8,
+    "title": "LDS: Lead Delivery System",
+    "author": "Edilma Riano",
+    "prior": "Marketing and Lead Expert",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=mv9hVLsqptk",    
+    "url": "http://lds-leads.s3-website-us-east-1.amazonaws.com/",
+    "cover": "/images/projects/lead-distribution-system.webp"
+  },
+
+  {
+    "id": 9,
+    "title": "PracPal",
+    "author": "Beatriz Recari",
+    "prior": "Former 3-time LPGA champion",
+
+    "content" : "Pracpal is an app designed for athletes by athletes, with user/password and Google sign in where they can log their practice regime for the week, update it and delete it. They are able also to retrieve stored data optimizing efficiency.",
+
+    "youtube" : "https://www.youtube.com/watch?v=4jcJuqay318",    
+    "url": "https://pracpal.com/",
+    "cover": "/images/projects/pracpal.webp"
+  },
+
+  {
+    "id": 10,
+    "title": "Lineupwiz",
+    "author": "Varlince Meran",
+    "prior": "⚠️⚠️ Lorem Ipsum",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=_ujz_ROM0_g",    
+    "url": "https://lineupwiz.web.app/",
+    "cover": "/images/projects/_blank.webp"
+  },
+
+  {
+    "id": 11,
+    "title": "Zen Path",
+    "author": "Andy Linnell",
+    "prior": "⚠️⚠️ Lorem Ipsum",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=7aFSaf9wGmg",    
+    "url": "https://zen-path-react.web.app/",
+    "cover": "/images/projects/zen-path.webp"
+  },
+
+  {
+    "id": 12,
+    "title": "Cheers!",
+    "author": "Gisele Abzalov",
+    "prior": "Former Finance Expert and Entrepreneur",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=to-J1VuDBGs",    
+    "url": "https://cheers-frontend-ga.web.app/",
+    "cover": "/images/projects/_blank.webp"
+  },
+
+  {
+    "id": 13,
+    "title": "Explore Top 5",
+    "author": "Alliette Dortelus",
+    "prior": "Former TSA Agent",
+
+    "content" : "⚠️⚠️ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+
+    "youtube" : "https://www.youtube.com/watch?v=V3eFb7bG1Sc",    
+    "url": "https://final-top5-ad.web.app/home",
+    "cover": "/images/projects/top-5.webp"
+  }
+]

@@ -33,9 +33,12 @@ Anttoinette Henry - Stylist and Entrepreneur
 
 <br>`Chromesthesia Sound`<br>
 Anthony Murphy - Recent High School Graduate
+>For those who need to get their opinions on music out there as quick and simply as possible, Chromesthesia is a website made to effortlessly post thoughts on music.
 
 <br>`LDS: Lead Delivery System`<br>
 Edilma Riano - Marketing and Lead Expert
+>For businesses that want to boost their sales performance. The LDS ( Lead Distribution System) streamlines the lead management process by integrating lead capture, segmentation, and distribution.
+With advanced algorithms, the LDS filters and routes leads to the most appropriate lead buyers or sales team members based on your company's criteria. The system also provides valuable insights and analytics, allowing you to make data-driven decisions about your lead generation strategy. Easy to use and customizable, the LDS is the ideal solution for businesses of all sizes and industries looking to optimize their sales pipeline.
 
 <br>`PracPal`<br>
 Beatriz Recari - Former 3-time LPGA champion

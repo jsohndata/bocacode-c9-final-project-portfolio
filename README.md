@@ -58,3 +58,4 @@ Alliette Dortelus - Former TSA Agent
 
 <br>`Zen Path`<br>
 Andy Linnell - Property and Ssset Manager
+> Zen Path is a gamified beginners guide to meditation. It was created to help anyone  learn how to meditate properly and quickly feel the benefits of a quite mind.

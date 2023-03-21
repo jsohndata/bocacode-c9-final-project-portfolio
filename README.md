@@ -30,6 +30,7 @@ Joseph Graffeo - Former Sports/Trading Card Grading Expert
 
 <br>`iReccoStyle`<br>
 Anttoinette Henry - Stylist and Entrepreneur
+>Black women often struggle to be recognized for their beauty in society. Our skin tone, hair texture, and history of revolution have resulted in a negative stigma, making us feel unwanted and undesirable. As a result, many of us avoid standing out and embracing our uniqueness. However, Ireccostyle is here to remind black women that they are seen, heard, and appreciated for their beauty.
 
 <br>`Chromesthesia Sound`<br>
 Anthony Murphy - Recent High School Graduate

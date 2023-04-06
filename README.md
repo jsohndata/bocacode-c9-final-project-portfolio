@@ -1,10 +1,10 @@
 # BocaCode C-9 Portfolio
-[![Read Me](https://jsohndata.github.io/bocacode-c9/images/meta/readme.webp)](https://jsohndata.github.io/bocacode-c9/)
+[![Read Me](https://jsohndata.github.io/bocacode-c9-final-project-portfolio/images/meta/readme.webp)](https://jsohndata.github.io/bocacode-c9-final-project-portfolio/)
 
 BocaCode's Cohort 9 (C-9) has successfully completed their final project after a challenging 10-week course filled with both highs and lows. It is with great pleasure that we congratulate all 13 students on their remarkable achievement.
 
 ## Link(s)
-* [👉 jsohndata.github.io/bocacode-c9](https://jsohndata.github.io/bocacode-c9/)
+* [👉 jsohndata.github.io/bocacode-c9-final-project-portfolio](https://jsohndata.github.io/bocacode-c9-final-project-portfolio/)
 
 <br>
 

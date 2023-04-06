@@ -1,5 +1,5 @@
 import {Col, Card } from "../../utilis/Bootstrap.js";
-import AccordianBar from "../AccordianBar/AccordianBar.js";
+import AccordionBar from "../AccordionBar/AccordionBar.js";
 
 import styles from "./gallery.module.css";
 
@@ -21,7 +21,7 @@ export default function GalleryCard({ data: {id, title, prior, author, cover, co
             <p className="mt-0 pt-0 prior"><small>{prior}</small></p>
           </header>
           
-          <AccordianBar data={{id, content, candidate, youtube, website}} />                 
+          <AccordionBar data={{id, content, candidate, youtube, website}} />                 
         </article>
       </Card>
     </Col>

@@ -19,6 +19,7 @@ By Migule Camilo - Former Apple Genius
 
 <br>`Echo`<br>
 Gisselle Pombar - Former MIT Chemistry PhD Candidate
+> Echo is a powerful and user-friendly tool for mastering new information. This flash card app utilizes the spaced repetition technique to help users effectively learn and retain information over time. By leveraging this scientifically-proven method of spaced learning, Echo optimizes study sessions and boosts memory retention, making learning more efficient and enjoyable for students and professionals alike. With its intuitive interface, Echo makes it easy to create, review, and rate flash cards, ensuring that users have all the tools they need to succeed in their studies.
 
 <br>`PigEBank`<br>
 Daniel Barba - Former Aerospace Machinist

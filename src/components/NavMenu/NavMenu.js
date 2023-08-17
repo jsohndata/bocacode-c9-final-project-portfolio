@@ -10,8 +10,7 @@ export default function NavMenu() {
 
         <Navbar.Collapse id="basic-navbar">
           <Nav className="ms-auto">
-            <Nav.Link href="https://photos.app.goo.gl/53iZfYyER9xnRaHX9" target="_blank">Photo Gallery </Nav.Link>
-            <Nav.Link href="https://bocacode.com/candidates" target="_blank">BocaCode Candidates</Nav.Link>
+            <Nav.Link href="https://photos.app.goo.gl/4oJPA2h74tovumLP8" target="_blank">Photo Gallery </Nav.Link>
           </Nav>
         </Navbar.Collapse>
     </Navbar>

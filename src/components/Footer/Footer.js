@@ -13,6 +13,11 @@ export default function Footer() {
                   <Github color="#000000" size={27} />
                   <p><small>See Code in Github</small></p>
               </a>
+
+              <p id="mozarts-ghost"><a href="https://notiempo.lol/mozartsghost/18"
+                rel="noreferrer"
+                alt="Click on it and press control-shift."
+                title="Click on it and press control-shift.">π</a></p>
             </Col>
           </Row>
         </Container>

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bocacode-c9-final-project-portfolio/static/css/main.6ead6807.css",
-    "main.js": "/bocacode-c9-final-project-portfolio/static/js/main.b2847a2f.js",
+    "main.css": "/bocacode-c9-final-project-portfolio/static/css/main.d0257bd1.css",
+    "main.js": "/bocacode-c9-final-project-portfolio/static/js/main.9876be87.js",
     "index.html": "/bocacode-c9-final-project-portfolio/index.html",
-    "main.6ead6807.css.map": "/bocacode-c9-final-project-portfolio/static/css/main.6ead6807.css.map",
-    "main.b2847a2f.js.map": "/bocacode-c9-final-project-portfolio/static/js/main.b2847a2f.js.map"
+    "main.d0257bd1.css.map": "/bocacode-c9-final-project-portfolio/static/css/main.d0257bd1.css.map",
+    "main.9876be87.js.map": "/bocacode-c9-final-project-portfolio/static/js/main.9876be87.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ead6807.css",
-    "static/js/main.b2847a2f.js"
+    "static/css/main.d0257bd1.css",
+    "static/js/main.9876be87.js"
   ]
 }
